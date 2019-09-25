@@ -1,6 +1,6 @@
 # Workshop
 Workshop examples, Pycom
-
+![Goal](./img/goal.png)
 
 ## Hardware
 - Pycomboard ([Documentation](https://docs.pycom.io/gettingstarted/introduction.html))
