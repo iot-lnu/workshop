@@ -18,6 +18,7 @@ Workshop examples, Pycom
 
 # Step By Step
 ## 1 - Assemble the hardware (Pycom board)
+![Connect the antenna](./img/antenna.png)
 
 ## 2 - Install the development tools
 
