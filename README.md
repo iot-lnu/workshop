@@ -18,9 +18,14 @@ Workshop examples, Pycom
 
 # Step By Step
 ## 1 - Assemble the hardware (Pycom board)
+Start by connecting the Pycom to the expantion board and then connect the antenna to the Pycom board as shown in the picture:
 ![Connect the antenna](./img/antenna.png)
 
 ## 2 - Install the development tools
+Install an IDE. We recommend Atom.io or Visual Studio Code.
+Open the IDE and install the plugin Pymakr.
+
+If on Mac or Linux there could be a problem connecting to the serial port (usb) on your computer. This is due to a incompatibility in the Pymakr plugin. It could be fixed by information you find in [update-electron.txt](./update-electron.txt)
 
 ## 3 - Connect to the Pycom board
 
