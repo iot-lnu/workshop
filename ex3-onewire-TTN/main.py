@@ -57,6 +57,7 @@ while True:
     time.sleep(1)
     t_ = temp.read_temp_async()
     print(temp.read_temp_async())
+    lpp.add_temperature(t_)
     time.sleep(1)
     print("DS18b20 temperature: " + str(t_))
     lpp.send(reset_payload = True)
